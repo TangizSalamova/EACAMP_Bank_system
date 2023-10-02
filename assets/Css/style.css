@@ -104,8 +104,10 @@ main #container .div2 .input1{
     padding: 5px;
 }
 
+
 button  {
     border-radius: 25px;
+    color: white;
     background: #5DC6C9;    
     font-family: 'Plus Jakarta Sans', sans-serif;
     font-size: 18px;
@@ -118,8 +120,11 @@ button  {
     
 }
 
-button a {
-    text-decoration: none;
-    border: none;
-    color: #FFF;
+main form div {
+    font-size: 8px;
+    font-weight: 500;
+}
+
+.right {
+    float: right;
 }
